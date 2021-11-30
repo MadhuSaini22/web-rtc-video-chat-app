@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(http://1.bp.blogspot.com/-WIQdkFapx4Y/UAM1gjwN4QI/AAAAAAAAC2U/qiJNTjVB4Zw/s1600/Rainbow_Colorful_Wood_Texture_HD_Desktop_Wallpaper-HidefWall.Blogspot.Com-.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
