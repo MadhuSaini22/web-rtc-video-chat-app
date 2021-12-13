@@ -9,5 +9,5 @@ Setup:
 
 
 ## License & copyright
- - © 2021, Code-Deeper
+ - © 2021, Madhu Saini
  - Licensed under the [MIT License](LICENSE).
